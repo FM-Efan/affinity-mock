@@ -1,6 +1,15 @@
 {
   "organizations": [
     {
+      "id": 660,
+      "name": "HangSeng Bank",
+      "domain": "hs.net",
+      "domains": [
+        "hs.net"
+      ],
+      "global": false
+    },
+    {
       "id": 661,
       "name": "Everyone's Inc",
       "domain": "ey.net",
