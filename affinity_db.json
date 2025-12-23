@@ -1,6 +1,15 @@
 {
   "organizations": [
     {
+      "id": 666,
+      "name": "Efan Inc",
+      "domain": "efan.net",
+      "domains": [
+        "efan.net"
+      ],
+      "global": true
+    },
+    {
       "id": 1001,
       "name": "Gottlieb Inc",
       "domain": "utter-drop.net",
