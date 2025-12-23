@@ -1,5 +1,14 @@
 {
   "organizations": [
+        {
+      "id": 659,
+      "name": "Wise Bank",
+      "domain": "wise.net",
+      "domains": [
+        "wise.net"
+      ],
+      "global": false
+    },
     {
       "id": 660,
       "name": "HangSeng Bank",
